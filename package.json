@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"canvas": "^2.11.2",
+		"get-pixels": "^3.3.3",
+		"gl": "^6.0.2",
+		"three": "^0.160.0"
+	}
+}
